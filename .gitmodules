@@ -1,0 +1,24 @@
+[submodule "django_expa"]
+	path = django_expa
+	url = https://github.com/camiloforero/django_expa.git
+[submodule "podioExpaLoaders"]
+	path = podioExpaLoaders
+	url = https://github.com/camiloforero/podioExpaLoaders.git
+[submodule "complex_hooks"]
+	path = complex_hooks
+	url = https://github.com/camiloforero/complex_hooks.git
+[submodule "django_mailTemplates"]
+	path = django_mailTemplates
+	url = https://github.com/camiloforero/django_mailTemplates.git
+[submodule "django_documents"]
+	path = django_documents
+	url = https://github.com/camiloforero/django_documents.git
+[submodule "django_podio"]
+	path = django_podio
+	url = https://github.com/camiloforero/django_podio.git
+[submodule "mc_analytics"]
+	path = mc_analytics
+	url = https://github.com/camiloforero/mc_analytics.git
+[submodule "django_hatchbuck"]
+	path = django_hatchbuck
+	url = https://github.com/camiloforero/django_hatchbuck.git
