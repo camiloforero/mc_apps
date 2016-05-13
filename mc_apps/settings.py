@@ -39,10 +39,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_podio',
     'django_expa',
+    'django_hatchbuck',
     'mc_analytics',
     'podioExpaLoaders',
     'django_documents',
-    'django_mailTemplates'
+    'django_mailTemplates',
+    'complex_hooks',
 ]
 
 MIDDLEWARE_CLASSES = [
